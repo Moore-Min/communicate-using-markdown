@@ -1,7 +1,10 @@
 # My Markdown Practice
 ## 学习笔记
+
+### 导入图片
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/bca0f4b3-2dd1-4aca-9f69-0010311a4fa7" />
 
+### 代码块
 ```verilog
 // 这是一个简单的 Verilog 模块
 module led_blink(
@@ -13,6 +16,12 @@ always @(posedge clk) begin
 end
 endmodule
 ```
+
+### 做任务清单
+- [x] Add headers
+- [x] Add an image
+- [x] Add a code example
+- [ ] Merge your pull request
 
 <!--
   <<< Author notes: Course header >>>
