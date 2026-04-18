@@ -1,6 +1,7 @@
 # My Markdown Practice
 ## 学习笔记
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/bca0f4b3-2dd1-4aca-9f69-0010311a4fa7" />
+
 ```verilog
 // 这是一个简单的 Verilog 模块
 module led_blink(
@@ -12,6 +13,7 @@ always @(posedge clk) begin
 end
 endmodule
 ```
+
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
