@@ -1,4 +1,3 @@
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/22c8de16-d0df-423a-92dd-79c548d6a60a" /><header>
 # My Markdown Practice
 ## 学习笔记
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/bca0f4b3-2dd1-4aca-9f69-0010311a4fa7" />
